@@ -10,4 +10,4 @@ Playtest my game [here](playtest/playtest)
 The prototype can be played [here](prototype/MouseTrapped.html)
 
 ## Final Game
-The final game can be played here
+The final game can be played [here](final_build/MouseTrapped.html)
